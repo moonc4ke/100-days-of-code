@@ -11,3 +11,13 @@ Rails: struggling with current project to understand on how to introduce a new p
 **Thoughts** 
 
 Maybe because of my background but right now my oppinion is like this - JS/PHP > Ruby :D 
+
+### Day 2: May 19, Wednesday
+
+**Today's Progress**:
+
+Refreshed my knowledge about declerative and unidirectional React application development flow. Shadow DOM for the win :D 
+
+**Thoughts** 
+
+My opinion hasn't changed - JS/PHP > Ruby :)))
