@@ -21,3 +21,13 @@ Refreshed my knowledge about declarative and unidirectional React application de
 **Thoughts** 
 
 My opinion hasn't changed - JS/PHP > Ruby :)))
+
+### Day 3: May 23, Monday
+
+**Today's Progress**:
+
+Learned about JSX, React Components, Component State and setState.
+
+**Thoughts** 
+
+My opinion hasn't changed - JS/PHP > Ruby :)))
