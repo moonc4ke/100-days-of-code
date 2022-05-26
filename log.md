@@ -31,3 +31,13 @@ Learned about JSX, React Components, Component State and setState.
 **Thoughts** 
 
 My opinion hasn't changed - JS/PHP > Ruby :)))
+
+### Day 4: May 26, Monday
+
+**Today's Progress**:
+
+Learned about React's secondary callback, mapping arrays and key atrribute importance. Refreshed my knowledge about promises.
+
+**Thoughts** 
+
+React is a very powerful tool for SPA and for any web app in general :)
