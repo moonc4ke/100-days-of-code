@@ -36,7 +36,7 @@ My opinion hasn't changed - JS/PHP > Ruby :)))
 
 **Today's Progress**:
 
-Learned about React's secondary callback, mapping arrays and key atrribute importance. Refreshed my knowledge about promises.
+Learned about React's secondary callback, mapping arrays and key attribute importance. Refreshed my knowledge about promises.
 
 **Thoughts** 
 
